@@ -1,5 +1,7 @@
 # Enshittification
 
+![ytmongoose](assets/YTMongoose.png)
+
 Enshittification is a Python application that allows users to interact with their YouTube subscriptions, offering options to download and play the most recent videos from subscribed channels in high quality, therefore subverting YT's ongoing attempts to shittify their platform beyond repair.
 
 ## Prerequisites
