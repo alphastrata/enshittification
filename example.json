@@ -1,0 +1,126 @@
+[
+  {
+    "title": "MAKE. ART. NOW.",
+    "channelId": "UCmRE4gvdeDkwf1oJrsabWWQ",
+    "videos": [
+      {
+        "title": "DJI LiDAR AutoFocus just got a MASSIVE upgrade. Transmission + Cable Hub + Receiver.",
+        "videoId": "tnG9VoXTi6g",
+        "watched": false
+      },
+      {
+        "title": "These KNOCK OFF Wireless Mics are FANTASTIC // Hollyland Lark Max",
+        "videoId": "MymMqgHQf4A",
+        "watched": true
+      },
+      {
+        "title": "How good is the Insta360 GO 3?",
+        "videoId": "-HDfdrYHTrc",
+        "watched": true
+      },
+      {
+        "title": "DJI Inspire 3: Beyond my expectations and wallet.",
+        "videoId": "gsPyTtNcam0",
+        "watched": true
+      },
+      {
+        "title": "I built an EVEN BIGGER Michael Bay Machine.",
+        "videoId": "U6r7oU3k3LY",
+        "watched": true
+      }
+    ]
+  },
+  {
+    "title": "jer",
+    "channelId": "UCJ4eM3IHGvZUqx8nFDLOsjQ",
+    "videos": [
+      {
+        "title": "dotted line shader",
+        "videoId": "DIxhh65qLso",
+        "watched": true
+      },
+      {
+        "title": "async reqwest vs sync with Tokio",
+        "videoId": "zl3lgNwev84",
+        "watched": true
+      },
+      {
+        "title": "stklr beta",
+        "videoId": "LxPKsK5IXEs",
+        "watched": true
+      },
+      {
+        "title": "vestaluna (Nasa planetary image fetching app written in Go)",
+        "videoId": "aCJl8exQUXs",
+        "watched": true
+      },
+      {
+        "title": "Serial vs Async with Tokio",
+        "videoId": "bOtYzTwinBY",
+        "watched": true
+      }
+    ]
+  },
+  {
+    "title": "ASU Supplemental Math Course Videos",
+    "channelId": "UCznvmLpuRoEuHb-7HK5Ugxg",
+    "videos": [
+      {
+        "title": "Example: Writing an Equation of a Line Given the Y-Intercept and Another Point",
+        "videoId": "5iaWDDgJH7o",
+        "watched": true
+      },
+      {
+        "title": "Finding a limit involving infinity using a graphical approach",
+        "videoId": "BoSrRhtuNsk",
+        "watched": true
+      },
+      {
+        "title": "Finding a limit involving infinity using an algebraic approach",
+        "videoId": "Eo9TcmRuDQw",
+        "watched": true
+      },
+      {
+        "title": "Finding the vertical and horizontal asymptotes of a graph using limits",
+        "videoId": "3210QlJIYkM",
+        "watched": true
+      },
+      {
+        "title": "Finding a limit involving infinity using a numerical approach",
+        "videoId": "B0W3qvZP6gg",
+        "watched": true
+      }
+    ]
+  },
+  {
+    "title": "ASU Khan",
+    "channelId": "UCioC_sN1MMLIYzWVb0MQYfw",
+    "videos": [
+      {
+        "title": "Topic: Simplifying a Quotient of Square Roots",
+        "videoId": "j87d-7x76Ng",
+        "watched": true
+      },
+      {
+        "title": "Problem: Power of a Power Rule",
+        "videoId": "6ajfi7YBqic",
+        "watched": true
+      },
+      {
+        "title": "Topic: Simplifying a Ratio of Multivariate Monomials",
+        "videoId": "GC-JYkC-Z84",
+        "watched": true
+      },
+      {
+        "title": "Topic: Product Rule with Positive Exponents: Multivariate",
+        "videoId": "M_9w5loabXA",
+        "watched": true
+      },
+      {
+        "title": "Topic: Quotient Rule with Negative Exponents: Problem Type 1",
+        "videoId": "9A9G-43XAxQ",
+        "watched": true
+      }
+    ]
+  }
+]
